@@ -4,6 +4,7 @@ A simple and lightweight web application that generates QR codes instantly from 
 Built using Python, Flask, and qrcode, this project provides a clean UI along with fast QR code generation.
 
 🚀 Features
+
 🔗 Generate QR codes from any link or text
 ⚡ Fast and lightweight Flask backend
 🖼️ Auto-generated QR code displayed instantly
@@ -12,6 +13,7 @@ Built using Python, Flask, and qrcode, this project provides a clean UI along wi
 🎨 Simple and beginner-friendly UI
 
 🛠️ Tech Stack
+
 1.Python 3
 2.Flask
 3.qrcode
@@ -19,6 +21,7 @@ Built using Python, Flask, and qrcode, this project provides a clean UI along wi
 5.HTML5
 
 📂 Project Structure
+
 qr-generator/
 │── app.py
 │── requirements.txt
