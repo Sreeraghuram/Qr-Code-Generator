@@ -28,7 +28,7 @@ qr-generator/
 └── templates/
     └── index.html
 
-📘 How It Works
+📘 How It Works 
 
 *User enters a URL or text
 
